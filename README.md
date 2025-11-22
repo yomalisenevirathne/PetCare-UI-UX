@@ -20,35 +20,49 @@ A smooth introduction to the app with engaging 3D visuals.
 
 | Splash Screen | Onboarding 01 | Onboarding 02 | Onboarding 03 |
 |:---:|:---:|:---:|:---:|
-| <img src="splash.png" width="200"/> | <img src="onboard1.png" width="200"/> | <img src="onboard2.png" width="200"/> | <img src="onboard3.png" width="200"/> |
+| <img src="splash.png" width="185"/> | <img src="onboard1.png" width="185"/> | <img src="onboard2.png" width="185"/> | <img src="onboard3.png" width="185"/> |
+
+<br>
 
 ### 2. Authentication
 Secure and friendly login/signup flows.
 
-| Get Started | Login | Sign Up 
-|:---:|:---:|:---:|:---:|
-| <img src="getstart.png" width="200"/> | <img src="login.png" width="200"/> | <img src="signup.png" width="200"/> |
+| Get Started | Login | Sign Up |
+|:---:|:---:|:---:|
+| <img src="getstart.png" width="185"/> | <img src="login.png" width="185"/> | <img src="signup.png" width="185"/> |
+
+<br>
 
 ### 3. Dashboard & Pet Management
 The core hub for managing pets and viewing daily summaries.
 
-| Home Dashboard | Add New Pet | Pet Health Card | edit pet profile | Visit Summary |
-|:---:|:---:|:---:|:---:|
-| <img src="home.png" width="200"/> | <img src="addpet.png" width="200"/> | <img src="petcard.png" width="200"/> | <img src="editprofile1.png" width="200"/> | <img src="editprofile2.png" width="200"/> | <img src="summary.png" width="200"/> |
+**Part 1: Overview & Adding Pets**
+| Home Dashboard | Add New Pet | Pet Health Card |
+|:---:|:---:|:---:|
+| <img src="home.png" width="185"/> | <img src="addpet.png" width="185"/> | <img src="petcard.png" width="185"/> |
+
+**Part 2: Managing Profiles & History**
+| Edit Pet Profile (1) | Edit Pet Profile (2) | Visit Summary |
+|:---:|:---:|:---:|
+| <img src="editprofile1.png" width="185"/> | <img src="editprofile2.png" width="185"/> | <img src="summary.png" width="185"/> |
+
+<br>
 
 ### 4. Appointments & Reports
 Booking flow and medical history tracking.
 
 | Upcoming | Book Appointment | Booking Success | Medical Reports |
 |:---:|:---:|:---:|:---:|
-| <img src="upcomings.png" width="200"/> | <img src="bookApp.png" width="200"/> | <img src="successfully.png" width="200"/> | <img src="reports.png" width="200"/> |
+| <img src="upcomings.png" width="185"/> | <img src="bookApp.png" width="185"/> | <img src="successfully.png" width="185"/> | <img src="reports.png" width="185"/> |
+
+<br>
 
 ### 5. Profile & Settings
 User personalization and preferences.
 
-| Account | Edit Profile | Change Password | Password Success | Language |
-|:---:|:---:|:---:|:---:|
-| <img src="account.png" width="200"/> | <img src="editprofile.png" width="200"/> | <img src="changepw.png" width="200"/> | <img src="pwSuccessfully.png" width="200"/> | <img src="language.png" width="200"/> |
+| Account | Edit Profile | Change Password | PW Success | Language |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="account.png" width="160"/> | <img src="editprofile.png" width="160"/> | <img src="changepw.png" width="160"/> | <img src="pwSuccessfully.png" width="160"/> | <img src="language.png" width="160"/> |
 
 ---
 
