@@ -27,7 +27,7 @@ Secure and friendly login/signup flows.
 
 | Get Started | Login | Sign Up 
 |:---:|:---:|:---:|:---:|
-| <img src="getstart.png" width="200"/> | <img src="login.png" width="200"/> | <img src="signup.png" width="200"/> 
+| <img src="getstart.png" width="200"/> | <img src="login.png" width="200"/> | <img src="signup.png" width="200"/> |
 
 ### 3. Dashboard & Pet Management
 The core hub for managing pets and viewing daily summaries.
